@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Codding platform<br>👯 I’m looking to collaborate with my team<br>🌱 I’m currently learning MEAR STACK<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a Risk and Reorganization application at my company<br>👯 I’m looking to collaborate with my team<br>🌱 I’m currently working on the Frontend, REST APIs, and UI/UX Design<br>💬 Ask me about web development, UI/UX, and full-stack architecture<br>⚡  Fun fact: I enjoy solving design problems and making user interfaces more intuitive!
 
 
 ## 🌐 Socials:
